@@ -1,2 +1,3 @@
-# IS-T
-Practic
+# ИСиТ
+## Editing the file
+Тестовый файл
